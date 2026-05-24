@@ -2,15 +2,33 @@
 layout: home # 使用Minima主题的home布局
 ---
  
-# 林佳宇
-全栈开发工程师 | 专注Python/React | 开源贡献者
+# 邱天
+AI产品工程师 | 专注Python | AI Coding重度用户
  
-📧 linjiayu@example.com | 📱 138-XXXX-XXXX | 🌐 [主页](/) | 🐙 [GitHub](https://github.com/linjiayu)
+📧 qiutianbaobao@163.com | 📱 18896730290 | 🌐 [主页](/) | 🐙 [GitHub](https://github.com/AUT29)
  
-## 个人简介
-3年全栈开发经验，擅长用Python（Django/Flask）和React构建高可用Web应用，参与过**django-async**（开源项目）的PR贡献，熟悉敏捷开发流程。
+## 自我评价
+热爱游戏行业，游戏经历丰富，热衷深入研究游戏玩法；持续关注 AI 编程工具与智能助手在游戏研发场景中的实践，擅长在与AI持续交流的过程中推进任务，并将AI编程融入日常工作流，具备高效的Vibe Coding能力；有较强的自学能力与执行力，可以快速掌握一门技能；有逻辑且沟通能力强，可以正确对接上下级需求并执行。
+
+## 竞赛经历
+### 数学建模美赛
+-题目：基于混合模型的Wordle游戏用户行为分析
+-个人职责：模型构建与算法设计；数据分析与可视化
+-获奖情况：2023数学建模美赛H奖
+
+### 全国大学生市场调查与分析大赛
+-题目：苏州市轻食市场发展现状及消费需求
+-个人职责：用户数据收集与清洗；主题建模与情感分析；数据分析与可视化
+-获奖情况：全国大学生市场调查与分析大赛国家二等奖
+
+
+
  
 ## 技术技能
-- 编程语言：Python、JavaScript/TypeScript、SQL
-- 前端：React、Vue、Tailwind CSS
-- 后端：Django、Flask、Docker
+-编程能力：熟练掌握Python编程语言、Pytorch深度学习框架
+-AI能力：长期深度使用且熟练掌握Cursor、Trae、CodeX等AI编程工具
+-大模型：熟悉市面上的主流大模型，具有大模型微调和应用开发的经验
+-游戏设计：熟练掌握Godot游戏引擎，熟悉基于Vibe Coding的游戏开发流程
+-办公能力：熟练掌握WPS、XMIND、EXCEL等办公软件
+-语言能力：大学英语6级证书，雅思6.5分
+

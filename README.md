@@ -26,7 +26,7 @@ AI产品工程师 | 专注Python | AI Coding深度用户
 #### 项目概述：
 基于Vibe Coding和Godot游戏引擎开发战棋游戏——一个含AI coding量高达95%的游戏demo
 
-游戏demo试玩链接: https://pan.baidu.com/s/1MKdd4CFyETedSDXGPU3Fzg?pwd=umjm 提取码: umjm
+游戏试玩版本链接: https://pan.baidu.com/s/1MKdd4CFyETedSDXGPU3Fzg?pwd=umjm 提取码: umjm
 
 #### 游玩视频
 

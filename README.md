@@ -30,7 +30,7 @@ AI产品工程师 | 专注Python | AI Coding深度用户
 
 #### 游玩视频
 
-
+https://github.com/user-attachments/assets/d9136279-9182-4e6b-9ac2-34ff1546add2
 
 
 

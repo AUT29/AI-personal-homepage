@@ -6,9 +6,6 @@ layout: home # 使用Minima主题的home布局
 AI产品工程师 | 专注Python | AI Coding深度用户
  
 📧 qiutianbaobao@163.com | 📱 18896730290 | 🐙 [GitHub](https://github.com/AUT29)
- 
-## 自我评价
-热爱游戏行业，游戏经历丰富，热衷深入研究游戏玩法；持续关注 AI 编程工具与智能助手在游戏研发场景中的实践，擅长在与AI持续交流的过程中推进任务，并将AI编程融入日常工作流，具备高效的Vibe Coding能力；有较强的自学能力与执行力，可以快速掌握一门技能；有逻辑且沟通能力强，可以正确对接上下级需求并执行。
 
 ## 项目经历
 ### 《Hex War》战棋游戏Demo
